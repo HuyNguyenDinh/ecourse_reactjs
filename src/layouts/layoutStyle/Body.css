@@ -1,0 +1,13 @@
+.body {
+    background-color: inherit;
+    min-height: inherit;
+    max-height: auto;
+    display: inherit;
+    flex-direction: inherit;
+    align-items: inherit;
+    justify-content: space-around;
+    font-size: calc(10px + 2vmin);
+    color: inherit;
+    position: relative;
+    margin-top: 12vh;
+}
